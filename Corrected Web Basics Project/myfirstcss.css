@@ -120,7 +120,7 @@ img {
 .footer-container {
     width: 80%;
     margin: 0 auto;
-    border-top-style: 3px solid #000000;
+    border-top-style: solid;
     padding: 10px;
     padding-bottom: 18%;
 }
