@@ -1,17 +1,48 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
-        <style>
-            
         body {
             background-color: #f5e1d6;
             font-family: "Roboto Mono", serif;
             }
 
+@font-face {
+    font-family: "quicksandregular";
+    src: url("quicksand-regular-webfont.woff2") format("woff2"),
+        url("quicksand-regular-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "quicksandbold";
+    src: url("quicksand-bold-webfont.woff2") format("woff2"),
+        url("quicksand-bold-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Editorial New";
+    src: url("PPEditorialNew-Regular-BF644b214ff145f.otf") format("woff2"),
+        url("quicksand-italic-webfont.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.first {
+    font-family: "editorialnewregular";
+}
+
+.second {
+    font-family: "editorialnewbold";
+}
+
+.third {
+    font-family: "editorialnewitalic";
+}
+
+.fourth {
+    font-family: "editorialnewlight";
+}
         
             h1 {
             font-size: 3em;
