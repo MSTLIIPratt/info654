@@ -135,8 +135,8 @@ img {
 #topnav {
     text-align: center;
     margin-top: 10%;
-    padding-left: auto;
-    padding-right: auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
 }
 
