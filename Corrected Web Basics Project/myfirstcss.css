@@ -144,6 +144,12 @@ ul.no-bullets {
     margin-right: 10px;
 }
 
+li.no-bullets {
+    list-style-type: none;
+    padding: 0;
+    margin-right: 10px;
+}
+
 #footer {
     text-align: left;
     margin-left: auto;
