@@ -122,8 +122,9 @@ img {
     margin: 0 auto;
     border-top-style: solid;
 }
-    padding: 10px;
-    padding-bottom: 18%;
+
+padding: 10px;
+padding-bottom: 18%;
 }
 
 #headinglevel2 {
@@ -151,7 +152,7 @@ ul.no-bullets {
     text-align: left;
     margin-left: auto;
     margin-right: auto;
-    width:100%;
+    width: 100%;
 }
 
 .column {
